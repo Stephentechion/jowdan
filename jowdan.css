@@ -1,0 +1,17 @@
+.jj{
+    line-break: normal;
+    font-size: 15px;
+    background-color: darkolivegreen;
+    text-indent: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+    
+}
+h1{
+    text-transform: uppercase;
+    text-shadow: 4px 5px 6px lime;
+    color: red;
+    text-align: center;
+    
+}
